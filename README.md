@@ -11,7 +11,7 @@
 ## Steps to Run the Project
 
 0. **Environment**
-   Rename the .env.example to .env
+   Rename the .env.example to .env and enter Gmail account and App password of a gamil account 
 
 1. **Install Dependencies**  
    Open a terminal in the project root directory and install the required dependencies:
